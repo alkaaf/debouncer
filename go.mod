@@ -1,4 +1,4 @@
-module github.com/alkaaf/distributed-debouncer
+module github.com/alkaaf/debouncer
 
 go 1.19
 
